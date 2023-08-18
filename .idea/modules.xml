@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/.idea/guessing-number.iml" filepath="$PROJECT_DIR$/.idea/guessing-number.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/.idea/guess-number-name.iml" filepath="$PROJECT_DIR$/.idea/guess-number-name.iml" />
->>>>>>> bf6f413c7bc50adbec04160cc81bce6f265c3d7a
+      <module fileurl="file://$PROJECT_DIR$/.idea/guessing-number-game.iml" filepath="$PROJECT_DIR$/.idea/guessing-number-game.iml" />
     </modules>
   </component>
 </project>
