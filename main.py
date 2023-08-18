@@ -46,6 +46,7 @@ while True:
             attempts += 1
             print("Go down boy 🛝.")
         else:
+            print("--------------------------------")
             print(f"Congrats 😶‍🌫️. You guessed the number, it was {number_to_guess}")
             print(f"You did it on {attempts} attempts!")
             quit()
